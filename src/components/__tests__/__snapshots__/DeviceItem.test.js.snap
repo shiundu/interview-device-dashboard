@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeviceItem should render correctly 1`] = `
+<div
+  className="device"
+  style={
+    Object {
+      "backgroundColor": "green",
+    }
+  }
+>
+  <p
+    className="deviceTitle"
+  >
+    
+  </p>
+  <span>
+    value: 
+    
+     
+    
+  </span>
+  <span />
+  <p>
+    1010010101
+  </p>
+  <button
+    className="activeButton"
+    style={
+      Object {
+        "backgroundColor": "green",
+      }
+    }
+  >
+    Active
+  </button>
+</div>
+`;
+
+exports[`should render correctly 1`] = `
+<div
+  className="device"
+  style={
+    Object {
+      "backgroundColor": "green",
+    }
+  }
+>
+  <p
+    className="deviceTitle"
+  >
+    
+  </p>
+  <span>
+    value: 
+    
+     
+    
+  </span>
+  <span />
+  <p>
+    1010010101
+  </p>
+  <button
+    className="activeButton"
+    style={
+      Object {
+        "backgroundColor": "green",
+      }
+    }
+  >
+    Active
+  </button>
+</div>
+`;

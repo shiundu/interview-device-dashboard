@@ -1,0 +1,54 @@
+/* Add your CSS here. This file should */
+/* automatically hot reload into the app on save */
+
+.instructions {
+    border: 2px solid #202936;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+}
+
+.deviceList {
+    display: flex;
+    padding: 10px;
+}
+
+.deviceTitle {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 5px;
+}
+
+.device {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: grey;
+    padding: 10px;
+    border: 2px;
+    margin: 5px;
+}
+
+.activeButton {
+    align-self: flex-end;
+    padding: 10px;
+    min-width: 70px;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.searchInput {
+    max-width: 500px;
+    width: 500px;
+    height: 30px;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.errorClass {
+    background-color: red;
+    padding: 10px;
+}
